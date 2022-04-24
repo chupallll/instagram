@@ -1,0 +1,23 @@
+<p>
+    <input type="radio" name="radio" checked/>한식 <br/>
+    <input type="radio" name="radio" />중식 <br/>
+    <input type="radio" name="radio" />일식
+</p>
+<p>
+   <input type="range" min="0" max="100" step="10" value="10"/> 
+</p>
+<p>
+    <input type="date"/>
+</p>
+<p>
+    <input type="month"/>
+</p>
+<p>
+    <input type="week"/>
+</p>
+<p>
+    <input type="time"/>
+</p>
+<p>
+    <input type="datetime-local"/>
+</p>
